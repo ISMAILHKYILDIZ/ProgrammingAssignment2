@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## by ISMAIL YILDIZ
 
 ## Write a short comment describing this function
 
