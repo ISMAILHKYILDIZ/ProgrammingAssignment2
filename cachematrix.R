@@ -1,7 +1,7 @@
 ## by ISMAIL YILDIZ
 
 makeCacheMatrix <- function(x = matrix()) {
-     inverse_matrix <- NULL
+     inverse_matrix <- NULL # define
      set <- function(y) {
           x <<- y
           inverse_matrix <<- NULL 
@@ -14,7 +14,7 @@ makeCacheMatrix <- function(x = matrix()) {
           get = get,
           setInverse = setInverse,
           getInverse = getInverse
-     )  ## create list of functions
+     )  ## create list of functions for further use
 }
 
 
